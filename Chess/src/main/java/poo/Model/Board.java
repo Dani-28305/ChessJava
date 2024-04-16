@@ -7,6 +7,7 @@ public class Board {
 
     public int getLengthX() {
         return this.lengthX;
+        
     }
 
     public void setLengthX(int lengthX) {
