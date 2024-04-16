@@ -12,6 +12,7 @@ public class Board {
 
     public void setLengthX(int lengthX) {
         this.lengthX = lengthX;
+        
     }
 
     public int getLengthY() {
